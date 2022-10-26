@@ -1,0 +1,6 @@
+framework module Pods_Teste_Sports_Match {
+  umbrella header "Pods-Teste Sports Match-umbrella.h"
+
+  export *
+  module * { export * }
+}
